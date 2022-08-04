@@ -1,0 +1,9 @@
+.images-project {
+    cursor: pointer;
+    transition: opacity 0.2s;
+}
+
+.images-project:hover{
+    opacity: 0.4;
+}
+
